@@ -36,7 +36,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 Protractor setup in this repository can be used to run Firefox and Chrome locally.<br />
 Browserstack configuration for all other devices and browsers.<br />
 Npm package puppeteer is added to the project. This package contains latest Chromium and removes compability issues.<br />
-When running tests locally Chromium from Puppeteer package will be used. <br />
+When running tests locally, Chromium from Puppeteer package will be used. <br />
 For Firefox local installation is mandatory.
 
 #### Variables
