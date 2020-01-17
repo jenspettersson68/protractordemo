@@ -89,6 +89,7 @@ const caps = {
   },
 
 // https://www.protractortest.org/#/async-await
+// Setting this parameter to true will force you to resolve promises by async/await
 SELENIUM_PROMISE_MANAGER: true,
 
   /*capabilities:{
