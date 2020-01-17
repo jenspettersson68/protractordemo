@@ -7,7 +7,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Requirement
 
 * Install NodeJS globally - https://nodejs.org/en/download/
-* Install Angular globally  
+* Install Angular CLI globally  
     ```npm install -g @angular/cli```
 * Install Protractor  
     ```npm install -g protractor```
@@ -56,7 +56,7 @@ suites - Run different test suites
 
 * Running locally with Angular :
 
-`ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).<br />
+`ng e2e` (CLI) to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).<br />
 Server should not be running. Command will launch internal Chromium and run tests<br /><br />
 `protractor .\e2e\protractor.conf.js` to execute the end-to-end tests with Protractor.<br />
 Application server needs to be started by running `ng serve`. Command will launch internal Chromium and run tests<br /><br />
