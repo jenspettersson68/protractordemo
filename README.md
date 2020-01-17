@@ -72,7 +72,7 @@ To run test suites use parameter `--suites` e.g. `--suite first`<br />
 
 __IMPORTANT:__ To be able to run towards Browserstack an account is needed.<br /><br />
 ![env](pic1.jpg)<br /><br />
-You need to create a file named `.env` in root and the parameters: <br />
+You need to create a file named `.env` in /e2e directory and the parameters: <br />
 * BROWSERSTACK_USER (username)
 * BROWSERSTACK_PASSWORD (API-key)<br /><br />
 Connection needs to be open by running:<br />
