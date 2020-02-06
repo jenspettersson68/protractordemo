@@ -1,4 +1,4 @@
-# Protractor Testapp
+# Protractor Angular Testapp
 
 The main purpose of this application is to demonstrate Protractor and how to add and use parameters and variables in the setup of e2e tests.
 
